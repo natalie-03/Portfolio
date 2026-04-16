@@ -1,6 +1,6 @@
 # 作品集
 
-我的作品集一共分稱三個部分：&nbsp;比賽簡報、&nbsp;課程專題、&nbsp;畢業專題、&nbsp;專業證照
+我的作品集一共分稱三個部分：&nbsp;比賽簡報、&nbsp;課程專題、&nbsp;畢業專題
 
 
 ## 一、比賽簡報
@@ -87,15 +87,4 @@ https://reurl.cc/89aLAo
 
 [![畢業專題](畢業專題.png)](畢業專題.pdf)
 
-## 四、專業證照
-### 1、Python							
-#### (1)、發證單位: Silicon Stone Education		
-#### (2)、發證日期:2023年1月7日
-![Python](python.png)
-### 2、Gemini 證照
-#### (1)、發證單位: Google
-#### (2)、發證日期:2025年9月22日
 
-### 3、Artificial Intelligence Essentials
-#### (1)、發證單位: Silicon Stone Education
-#### (2)、發證日期:2025年6月12日
