@@ -86,3 +86,16 @@ https://reurl.cc/89aLAo
 [畢業專題]([https://reurl.cc/xWLz8V])
 
 [![畢業專題](畢業專題.png)](畢業專題.pdf)
+
+## 四、專業證照
+### 1、Python							
+#### (1)、發證單位: Silicon Stone Education		
+#### (2)、發證日期:2023年1月7日
+
+### 2、Gemini 證照
+#### (1)、發證單位: Google
+#### (2)、發證日期:2025年9月22日
+
+### 3、Artificial Intelligence Essentials
+#### (1)、發證單位: Silicon Stone Education
+#### (2)、發證日期:2025年6月12日
