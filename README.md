@@ -91,7 +91,7 @@ https://reurl.cc/89aLAo
 ### 1、Python							
 #### (1)、發證單位: Silicon Stone Education		
 #### (2)、發證日期:2023年1月7日
-[![Python](python.png)]
+![Python](python.png)
 ### 2、Gemini 證照
 #### (1)、發證單位: Google
 #### (2)、發證日期:2025年9月22日
