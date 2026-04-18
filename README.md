@@ -81,8 +81,8 @@ https://reurl.cc/qYR6GE
 
 作品連結: 
 https://reurl.cc/lpN0Lj
+[![行為資料科學](行為資料科學.png)](行為資料科學.pdf)
 
-[![資料庫報告](資料庫報告.png)](資料庫報告.pdf)
 ### 4、資料庫導論
 
 使用 SQL 建立關聯式資料庫
@@ -91,9 +91,7 @@ https://reurl.cc/lpN0Lj
 
 作品連結: 
 https://reurl.cc/Ga5omv
-
-[![行為資料科學](行為資料科學.png)](行為資料科學.pdf)
-
+[![資料庫報告](資料庫報告.png)](資料庫報告.pdf)
 
 ## 三、畢業專題
 
